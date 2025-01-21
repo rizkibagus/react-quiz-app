@@ -73,7 +73,7 @@ Ensure you have the following installed on your machine:
 
 ## **Screenshots**
 
-![Screenshot](./src/assets/SS.png)
+![Screenshot](./src/assets/ss.png)
 
 ---
 
